@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/interactive-credit-card/static/css/main.6465be1d.css",
+    "main.js": "/interactive-credit-card/static/js/main.35327c57.js",
+    "static/js/787.2fa85f20.chunk.js": "/interactive-credit-card/static/js/787.2fa85f20.chunk.js",
+    "static/media/bg-main-desktop.png": "/interactive-credit-card/static/media/bg-main-desktop.806e7aa7b4dbc1d78bc3.png",
+    "static/media/bg-card-back.png": "/interactive-credit-card/static/media/bg-card-back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/bg-card-front.png": "/interactive-credit-card/static/media/bg-card-front.8153e2ca184402a8385f.png",
+    "static/media/bg-main-mobile.png": "/interactive-credit-card/static/media/bg-main-mobile.caa4689407777a312ede.png",
+    "index.html": "/interactive-credit-card/index.html",
+    "static/media/icon-complete.svg": "/interactive-credit-card/static/media/icon-complete.8fd757c0c5c44b1d597ca411400e046d.svg",
+    "main.6465be1d.css.map": "/interactive-credit-card/static/css/main.6465be1d.css.map",
+    "main.35327c57.js.map": "/interactive-credit-card/static/js/main.35327c57.js.map",
+    "787.2fa85f20.chunk.js.map": "/interactive-credit-card/static/js/787.2fa85f20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6465be1d.css",
+    "static/js/main.35327c57.js"
+  ]
+}
